@@ -1,0 +1,8 @@
+  # GitHub专属规则（放规则列表最前面，避免被覆盖）
+  - DOMAIN-KEYWORD,github,国外
+  - DOMAIN-SUFFIX,github.com,国外
+  - DOMAIN-SUFFIX,github.io,国外
+  - DOMAIN-SUFFIX,githubapp.com,国外
+  - DOMAIN-SUFFIX,githubassets.com,国外
+  - DOMAIN-SUFFIX,githubusercontent.com,国外
+  - DOMAIN-SUFFIX,raw.githubusercontent.com,国外
